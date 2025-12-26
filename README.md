@@ -29,7 +29,7 @@ Through this project, I practiced:
 
 ## Credits
 All recipes and images were sourced from [Allrecipes](https://www.allrecipes.com/).
-* **Lasagna Image:** Credit to Dotdash Meredith Food Studios.
+* **Lasagna Image And Burger Image:** Credit to Dotdash Meredith Food Studios.
 * **Pizza Image:** Credit to Allrecipes.
 =======
 # Odin Recipes
